@@ -1,0 +1,5 @@
+[Default Settings]
+Database Username: root
+Database Password: root123
+
+[Create new Schema] = securelogin
